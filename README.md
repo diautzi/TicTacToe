@@ -1,6 +1,8 @@
 
 # TicTacToe
 
+<img width="316" alt="tic-tac-toe" src="https://user-images.githubusercontent.com/44477773/115323658-1c584500-a14e-11eb-9d84-56095e409970.png">
+
 ### tic-tac-toe game that:
 
 - Lets you play tic-tac-toe,
