@@ -1,3 +1,4 @@
+
 # TicTacToe
 
 ### tic-tac-toe game that:
@@ -15,3 +16,6 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser
+
+
+https://user-images.githubusercontent.com/44477773/115323408-b2d83680-a14d-11eb-95ef-73d9ccd207c4.mov
